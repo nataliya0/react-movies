@@ -39,7 +39,6 @@ class Search extends React.Component {
             Search
           </button>
         </div>
-        <span>Movies</span>
         <div>
           <label>
             <input
